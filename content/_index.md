@@ -23,6 +23,10 @@ action_label: "Read More &rarr;"
 action_type: text # text, button
 news_heading: "Latest News"
 news_items:
+  - date: "July 30, 2026"
+    title: "New NASA funding: Rapid Contact Dynamics for Surface Operations"
+    description: "This NASA-sponsored project will develop a faster, high-fidelity simulation method for interactions between lunar regolith and rover wheels, lander footpads, and other surface equipment, supporting Artemis mission planning and future lunar operations."
+    url: ""
   - date: "April 15, 2026"
     title: "Paper accepted in Continuum Mechanics and Thermodynamics"
     description: "A new paper has been accepted for publication: *Geometrical and Material Nonlinear Effects in Granular Micromechanics: Effects of Grain-Pair Tangential Plasticity and Induced Anisotropy*."
