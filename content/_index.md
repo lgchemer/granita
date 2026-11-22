@@ -27,7 +27,7 @@ news_items:
     title: "FloodQ Florida places in the top three at FIU quantum hackathon"
     description: >-
       Dipak Dahal and Anuragi Thapa placed in the top three at the FIU node of the 2026 Qollab × IonQ Global Quantum Hackathon, competing against participants from across South and Central Florida.
-      Their project, **FloodQ Florida**, explores how quantum computing could effectively support hurricane evacuation planning. 
+      Their project, *FloodQ Florida*, explores how quantum computing could effectively support hurricane evacuation planning. 
       [View the FIU results](https://qollab.xyz/explore/hackathon-2026/florida-international#_3rd-place-floodq-florida) | [Explore the interactive project](https://qollab.xyz/u/dipakdahal/flood-florida)
     url: ""
   - date: "July 30, 2026"
