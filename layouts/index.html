@@ -60,7 +60,7 @@
           <article class="pv3 bb b--custom-border-color latest-news-item">
             <p class="f7 fw7 ttu tracked mb2 mt0">{{ .date }}</p>
             <h3 class="f3 fw4 mt0 mb2">{{ .title }}</h3>
-            <p class="f5 lh-copy mv0 measure-wide">{{ .description | markdownify }}</p>
+            <p class="f5 lh-copy mv0">{{ .description | markdownify }}</p>
           </article>
           {{ if $url }}</a>{{ end }}
         {{ end }}

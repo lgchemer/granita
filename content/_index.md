@@ -23,6 +23,13 @@ action_label: "Read More &rarr;"
 action_type: text # text, button
 news_heading: "Latest News"
 news_items:
+  - date: "November 22, 2026"
+    title: "FloodQ Florida places in the top three at FIU quantum hackathon"
+    description: >-
+      Dipak Dahal and Anuragi Thapa placed in the top three at the FIU node of the 2026 Qollab × IonQ Global Quantum Hackathon, competing against participants from across South and Central Florida.
+      Their project, **FloodQ Florida**, explores how quantum computing could effectively support hurricane evacuation planning. 
+      [View the FIU results](https://qollab.xyz/explore/hackathon-2026/florida-international#_3rd-place-floodq-florida) | [Explore the interactive project](https://qollab.xyz/u/dipakdahal/flood-florida)
+    url: ""
   - date: "July 30, 2026"
     title: "New NASA funding: Rapid Contact Dynamics for Surface Operations"
     description: "This NASA-sponsored project will develop a faster, high-fidelity simulation method for interactions between lunar regolith and rover wheels, lander footpads, and other surface equipment, supporting Artemis mission planning and future lunar operations."
